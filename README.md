@@ -8,4 +8,4 @@ A empresa em questão trabalha no ramo do delivery, semelhante ao IFood. No enta
 
 Tendo em mente o tipo de trabalho, avaliamos os requisitos pensando nos funcionários que operariam na empresa, o atendimento aos fornecedores que desejarem vender seus produtos, e à projeção dos preços para aqueles que visarem fechar contrato com a empresa. 
 
-Dessa forma o sistema desenvolvido foi responsável pela gestão de produtos (com riqueza nas informações nutricionais), pela gestão dos funcionários (tanto no cadastramento quanto para dados de login) e, por fim, na agilidade e facilidade na execução do sistema.
+Dessa forma o sistema desenvolvido foi responsável pela gestão de produtos (com riqueza nas informações nutricionais), pela gestão dos funcionários (tanto no cadastramento quanto para dados de login) e, por fim, para a agilidade e facilidade na execução do sistema, foi dividido em 2 bibliotecas, sendo produto.h e funcionario.h. Com isso, a execução do arquivo main ficou mais compacto e legível.
